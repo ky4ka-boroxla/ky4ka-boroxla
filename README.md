@@ -42,6 +42,16 @@
 </p>
 
 <p align="center">
+  <b>Не буду учить, даже не спрашивайте:</b>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ассемблер-6E4C13?style=flat-square"/>
+</p>
+
+<p align="center">
   <img src="github-contribution-grid-snake-dark.svg" alt="Змейка, поедающая вклады" />
 </p>
 
