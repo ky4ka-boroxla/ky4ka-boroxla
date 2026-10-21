@@ -46,7 +46,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=dotnet&logoColor=white"/>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
   <img src="https://img.shields.io/badge/Assembly-6E4C13?style=flat-square"/>
 </p>
